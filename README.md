@@ -1,3 +1,3 @@
-# Weather-api
+# Weather-today
 
-[Weather API Website](https://sachin8777.github.io/Weather-api/)
+[Weather today Website](https://sachin8777.github.io/Weather-api/)
